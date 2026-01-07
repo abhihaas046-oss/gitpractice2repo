@@ -1,1 +1,1 @@
-print("hello")
+print(5+6*2/0.9)
